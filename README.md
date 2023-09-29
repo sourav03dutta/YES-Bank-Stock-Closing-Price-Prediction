@@ -54,7 +54,7 @@ regularization techniques such as ridge, lasso and elastic net regression.
 
 **Programming Language** :- Python
 
-**Libraries used** :- Pandas, NumPy, Matplotlib, Seaborn, plotly.express, Scipy, Sklearn, Statsmodels
+**Libraries used** :- Pandas, NumPy, Matplotlib, Seaborn, plotly.express, Scipy, Sklearn, Statsmodels, Missingno
 
 
 ## Author
