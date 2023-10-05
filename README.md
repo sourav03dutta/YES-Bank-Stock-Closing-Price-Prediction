@@ -1,6 +1,8 @@
 
 # YES Bank Stock Closing Price Prediction
 
+THIS PROJECT IS VERIFIED BY - [@ALMABETTER](https://www.almabetter.com/)
+
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/d/d1/Yes_Bank_Logo-01.png)
 
 Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. The main objective is to predict the stock’s closing price of the month.
