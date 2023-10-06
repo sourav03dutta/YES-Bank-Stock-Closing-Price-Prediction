@@ -1,7 +1,7 @@
 
 # YES Bank Stock Closing Price Prediction
 
-THIS PROJECT IS VERIFIED BY - [@ALMABETTER](https://www.almabetter.com/)
+THIS PROJECT IS VERIFIED BY [ALMABETTER](https://www.almabetter.com/)
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/d/d1/Yes_Bank_Logo-01.png)
 
@@ -61,5 +61,5 @@ regularization techniques such as ridge, lasso and elastic net regression.
 
 ## Author
 
-- [@sourav03dutta](https://github.com/sourav03dutta)
+- [sourav03dutta](https://github.com/sourav03dutta)
 
